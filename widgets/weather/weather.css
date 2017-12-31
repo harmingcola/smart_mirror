@@ -1,0 +1,11 @@
+img#weatherIcon {
+    width : 200px;
+}
+
+div#weatherInfoIcon {
+    padding: 10px;
+}
+
+div#weatherInfoMain {
+    font-size: 180%;
+}

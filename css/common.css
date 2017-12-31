@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Impact", Impact, "Lucida Sans Typewriter";
+}
+
+div#container {
+    width:50%;
+    text-align: center;
+}
+
+div.spacer {
+    height: 15px;
+}
+
+.textDisplay {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
